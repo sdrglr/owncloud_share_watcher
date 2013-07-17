@@ -24,7 +24,7 @@
 // CLASSPATH
 OC::$CLASSPATH['OC_Share_Watcher'] = 'apps/files_share_watcher/lib/watcher.php';
 
-// HOOK CONNECTS
+// HOOK CONNECTIONS
 OCP\Util::connectHook('OCP\Share', 'post_shared', 'OC_Share_Watcher', 'post_shared');
 OCP\Util::connectHook('OCP\Share', 'post_unshare', 'OC_Share_Watcher', 'post_unshare');
 
