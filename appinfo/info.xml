@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<info>
+	<id>files_share_watcher</id>
+	<name>Share Watcher</name>
+	<version>0.1</version>
+	<licence>AGPL</licence>
+	<author>Serdar Güler</author>
+	<require>4.9</require>
+	<description>Logging share operations</description>
+	<shipped>true</shipped>
+</info>
