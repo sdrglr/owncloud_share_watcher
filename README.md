@@ -1,4 +1,4 @@
 owncloud_share_watcher
 ======================
 
-Share Watcher :: OwnCloud Apps :: Logging file and directory sharing status
+ OwnCloud Apps :: Share Watcher :: Logging file and directory sharing status
