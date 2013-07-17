@@ -6,6 +6,6 @@
 	<licence>AGPL</licence>
 	<author>Serdar Güler</author>
 	<require>4.9</require>
-	<description>Logging share operations</description>
+	<description>Logging file and directory sharing status</description>
 	<shipped>true</shipped>
 </info>
